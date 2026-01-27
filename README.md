@@ -36,20 +36,21 @@ The program compares these options and prints the shipping costs.
 
 1. Make sure you have **Python 3** installed:
    ```bash
-   python --version
+      python --version
+   
 Clone this repository:
-
-git clone https://github.com/LuisMunoz25/shipping-cost-calculator.git
+   
+   git clone https://github.com/LuisMunoz25/shipping-cost-calculator.git
 
 
 2. Navigate into the project folder:
-
-  cd shipping-cost-calculator
+   ```bash
+     cd shipping-cost-calculator
 
 
 3. Run the script:
-
-  python shipping-cost-calculator.py
+   ```bash
+     python shipping-cost-calculator.py
 
 ## ⚙️ How to Change the Package Weight
 
